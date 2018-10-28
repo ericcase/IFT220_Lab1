@@ -1,4 +1,5 @@
-# IFT220_Lab1
+# IFT 220 Lab1
+## For ASU's IFT 220 2018 Fall B course.
 
 ![Learn Git without Code](https://github.com/ericcase/IFT220_Lab1/blob/master/Lab1_Learn_Git_without_Code.png)
  
