@@ -1,6 +1,6 @@
 # IFT220_Lab1
 
-IFT 220 Lab 1
+![Learn Git without Code](https://github.com/ericcase/IFT220_Lab1/blob/master/Lab1_Learn_Git_without_Code.png)
  
 Follow this guide https://guides.github.com/activities/hello-world (I made my repository private).  After you have completed the guide once, step away for a day and repeat the guide from memory starting with creating a new branch.  I want you to learn the process:
 * Branching, 
